@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ratna Prabhakar Majji</h1>
-<h3 align="center">A passionate Software developer from USA</h3>
+<h3 align="center">A passionate Software Developer from USA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prabhakar8179&label=Profile%20views&color=0e75b6&style=flat" alt="prabhakar8179" /> </p>
 
